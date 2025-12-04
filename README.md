@@ -8,7 +8,7 @@
 - Hướng dẫn này **không bao gồm** môi trường Desktop, âm thanh, driver đồ họa, các phần mềm thường sử dụng (những thứ này sẽ đến ở hướng dẫn sau) trên Arch Linux - Bạn sẽ chỉ nhận được một hệ thống gồm Window và Arch Linux cơ bản với một màn hình console màu đen.
 - Hướng dẫn này hoạt động cho cả máy bàn và laptop. Người dùng laptop chỉ cần lưu ý mục kết nối mạng Wi-Fi khi cài Arch Linux.
 
-
+# Các bạn nhớ tắt secure boot trong bios máy, và lúc tạo bootable cho Windows bằng rufus bạn hãy tắt bitlocker encryption.
 
 # PHẦN I: WINDOWS
 ## Lưu ý quan trọng:
