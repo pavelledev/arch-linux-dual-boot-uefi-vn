@@ -499,7 +499,7 @@ Lưu vào thoát
 ### 11.1 Cài GRUB và công cụ mạng
 
 ```bash
-pacman -S grub efibootmgr osprober networkmanger network-manager-applet
+pacman -S grub efibootmgr osprober ntfs-3g networkmanger network-manager-applet
 ```
 
 ### 11.2 Bật NetworkManager
