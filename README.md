@@ -17,11 +17,14 @@ Nếu các bạn đã cài Window từ trước thì khả năng cao phân vùng
 
 ## Bước 1: Điều chỉnh kích thước EFI của Windows:
 **Mình đoán là các bạn đã biết cài đặt Windows thông thường rồi, và setup này đoán là các bạn có 1 ổ đĩa**
-Khi đến bước tùy chỉnh phân vùng của Windows, các bạn hãy xóa hết các phân vùng đang có đi (lưu ý không xóa nhầm USB boot) và làm theo các bước sau:
+**Khi đến bước tùy chỉnh phân vùng của Windows, các bạn hãy xóa hết các phân vùng đang có đi (lưu ý không xóa nhầm USB boot nó thường là disk 1) và làm theo các bước sau**:
+
+Nó trông như vậy nè (Ảnh chỉ mang tính chất minh họa):
+![Ảnh minh họa Disk Part](/images/diskpart.png)
 
 ### 1.1 Mở console:
 
-Bạn nhấn tổ hợp phím [SHIFT] + [F10].
+Bạn nhấn tổ hợp phím **[SHIFT]** + **[F10]**.
 
 ### 1.2 Sử dụng công cụ phân vùng ổ đĩa:
 
